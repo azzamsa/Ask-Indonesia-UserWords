@@ -1,3 +1,5 @@
+# Old Repository. We have android package now !. Go [here](https://github.com/azzamsa/LanguagePack) for new one.
+
 # Ask Indonesian UserWord
 
 Repository ini dapat digunakan untuk menunjang produktifitas anda dalam mengetik menggunakan aplikasi [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/)
